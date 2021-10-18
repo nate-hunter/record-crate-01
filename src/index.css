@@ -1,0 +1,23 @@
+* {
+  /* font-family: "avenir next", avenir, sans-serif; */
+  font-family: "Roboto Slab", serif;
+  /* color: slateblue;
+  color: rgb(180, 172, 241); */
+  /* font-family: "Hina Mincho", serif; */
+  /* font-family: "Open Sans", sans-serif; */
+  /* font-family: "Poppins", sans-serif; */
+  font-family: "Urbanist", sans-serif;
+}
+
+h1,
+h2,
+h3 {
+  font-family: "Lalezar", cursive;
+}
+
+/* * {
+  font-family: "Lalezar", cursive;
+  font-family: 'Open Sans', sans-serif;
+  font-family: 'Poppins', sans-serif;
+  font-family: 'Urbanist', sans-serif;
+} */

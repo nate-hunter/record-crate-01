@@ -1,4 +1,4 @@
-# record crate
+# [record crate](https://record-crate.vercel.app/)
 
 A music organization app with the dj in mind
 
